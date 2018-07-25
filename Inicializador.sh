@@ -17,7 +17,7 @@ clear
 
 echo " #################################################### "
 echo " #                                                  # "
-echo " #           \033[0;31mMetasploit auto installer\033[0;31m             # "
+echo " #              Metasploit auto install              # "
 echo " #                                                  # "
 echo " #            Ccoded by: spectro hacking            # "
 echo " #     Youtube:m/channel/UCAmRS0i3PL2hlSNf8zpuKGg   # "
@@ -35,5 +35,5 @@ y
 chmod +x metasploit.sh
 
 ./metasploit.sh
-~
-~
+
+
