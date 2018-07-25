@@ -9,7 +9,7 @@ Sceipt feito por Spectro hacking
 apt install update && apt install upgrade
 
 apt install curl
-
+cd ..
                                                                    
 clear
 
@@ -17,7 +17,7 @@ clear
 
 echo " #################################################### "
 echo " #                                                  # "
-echo " #              Metasploit auto install              # "
+echo " #             Metasploit auto install              # "
 echo " #                                                  # "
 echo " #            Ccoded by: spectro hacking            # "
 echo " #     Youtube:m/channel/UCAmRS0i3PL2hlSNf8zpuKGg   # "
